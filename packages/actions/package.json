@@ -47,7 +47,7 @@
 		"@vercel/postgres": "^0.5.1",
 		"meilisearch": "^0.35.1",
 		"tslib": "^2.6.2",
-		"undici": "5.27.2"
+		"undici": "5.28.4"
 	},
 	"devDependencies": {
 		"@types/node": "18.18.8",
